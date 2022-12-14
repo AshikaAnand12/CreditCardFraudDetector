@@ -30,7 +30,7 @@
 4. Streamlit App Deployment
 5. Documentation
 
-**Steps to run the project**:
+## **Steps to run the project**:
 1. Download creditcard.csv file from [Here]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
 2. Upload .csv file to your drive
 3. Run the colab
