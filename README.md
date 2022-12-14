@@ -28,7 +28,11 @@
 2. Hyperparameter tuning
 3. Streamlit App Creation
 4. Streamlit App Deployment
-5. Documentation
+5. Deployment
+6. Documentation
+
+## **Purpose and description of the project**:
+The usage of credit cards has dramatically increased these days. As credit cards become the most popular payment method for both online and regular purchases, related fraud cases are also on the rise. It is crucial for credit card companies to recognize fraudulent credit card transactions so that customers are not charged for these fraudulent transactions.This project demonstrates modeling a dataset using machine learning and credit card fraud detection. The problem of detecting credit card fraud involves modeling previous credit card transactions using data that turns out to be fraudulent. This model is then used to detect whether new transactions are fraudulent. Our goal is to detect 100% of fraudulent transactions while minimizing false fraud classifications. 
 
 ## **Steps to run the project**:
 1. Download creditcard.csv file from [Here]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
