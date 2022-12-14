@@ -1,4 +1,4 @@
-# Special Topics Project
+# Credit Card Fraud Detection using Autoencoders
 
 ## Team Name: Dementors
 
@@ -29,8 +29,6 @@
 3. Streamlit App Creation
 4. Streamlit App Deployment
 5. Documentation
-
-## Credit Card Fraud Detection using Autoencoders
 
 **Steps to run the project**:
 1. Download creditcard.csv file from [Here]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
