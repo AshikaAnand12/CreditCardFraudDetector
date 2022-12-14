@@ -27,3 +27,10 @@ Or
 Colab link: https://colab.research.google.com/drive/1v1IVxKmASxota9691xDGLQ0itPdg2yLZ 
 
 Video Link : https://drive.google.com/file/d/19u1na-wG3NxT9wiSRjudXd_JTs7KnXma/view?usp=share_link
+
+## CI Pipeline
+1. For the colab:
+  a. Upload data after downloading from above links - Data Injection
+  b. Data obtained has undergone PCA since it is confidential and we have performed cleaning and classification for fraud and normal records - Data preparation
+  c. Used autoencoder with 50 epochs for Model training
+  d. Model has been stored as ".h5" [CAN PICKLE AND STORE IN DRIVE]
