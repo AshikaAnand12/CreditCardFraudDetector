@@ -68,7 +68,7 @@ Video Link : https://drive.google.com/file/d/19u1na-wG3NxT9wiSRjudXd_JTs7KnXma/v
 6. Deploy the app on Streamlit using Github's app.py file
 
 ## Steps to use Streamlit
-1. Access the [URL](https://ramyamahesh1126-specialtopicsproject-app-cngff6.streamlit.app/))
+1. Access the [URL](https://ramyamahesh1126-specialtopicsproject-app-cngff6.streamlit.app/)
 2. Upload the [data]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
 3. Once the data is uploaded, view the visualizations 
 
