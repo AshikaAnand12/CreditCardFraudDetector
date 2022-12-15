@@ -59,7 +59,7 @@ Video Link : https://drive.google.com/file/d/19u1na-wG3NxT9wiSRjudXd_JTs7KnXma/v
 4. Model has been stored as ".h5" file
 
 ## CD Pipeline
-1. Deployed model on. [[NEED TO DEPLOY]]
+1. Deployed model
 2. App UI can be accessed using [Streamlit](https://ramyamahesh1126-specialtopicsproject-app-cngff6.streamlit.app/))
 
 
