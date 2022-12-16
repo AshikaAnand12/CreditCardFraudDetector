@@ -46,11 +46,13 @@ Or
 2. Upload the creditcard.csv file to sample_data in google cola
 3. Run the colab
 
-**Note:** Ppt, Video and report are included in the github repo
+### **Note:** Ppt, Video and report are included in the github repo
 
 Colab link: https://colab.research.google.com/drive/1v1IVxKmASxota9691xDGLQ0itPdg2yLZ 
 
 Video Link : https://drive.google.com/file/d/19u1na-wG3NxT9wiSRjudXd_JTs7KnXma/view?usp=share_link
+
+Ppt Link : https://docs.google.com/presentation/d/1Oy9uPNnE9WADIJtpxJiVYm809vOkAVKKE-A6sCmo0xw/edit?usp=sharing
 
 ## CI Pipeline
 1. Upload data after downloading from above links - Data Injection
