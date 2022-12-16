@@ -35,16 +35,10 @@
 The usage of credit cards has dramatically increased these days. As credit cards become the most popular payment method for both online and regular purchases, related fraud cases are also on the rise. It is crucial for credit card companies to recognize fraudulent credit card transactions so that customers are not charged for these fraudulent transactions.This project demonstrates modeling a dataset using machine learning and credit card fraud detection. The problem of detecting credit card fraud involves modeling previous credit card transactions using data that turns out to be fraudulent. This model is then used to detect whether new transactions are fraudulent. Our goal is to detect 100% of fraudulent transactions while minimizing false fraud classifications. 
 
 ## **Steps to run the project**:
-1. Download creditcard.csv file from [Here]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
-2. Upload .csv file to your drive
-3. Run the colab
-4. Provide permission to access the file in the colab
+1. Create a shortcut of Cmp297 folder to My Drive 
+2. Run the colab
+3. Provide permission to access the file in the colab
 
-Or
-
-1. Download creditcard.csv file from [Here]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
-2. Upload the creditcard.csv file to sample_data in google cola
-3. Run the colab
 
 ### **Note:** Ppt, Video and report are included in the github repo
 
