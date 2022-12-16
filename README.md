@@ -54,6 +54,7 @@ https://docs.google.com/presentation/d/1Oy9uPNnE9WADIJtpxJiVYm809vOkAVKKE-A6sCmo
 2. Data obtained has undergone PCA since it is confidential and we have performed cleaning and classification for fraud and normal records - Data preparation
 3. Used autoencoder with 50 epochs for Model training
 4. Model has been stored as ".h5" file
+5. Screenshots are added to Screenshots folder
 
 ## CD Pipeline
 1. Deployed model
@@ -67,9 +68,11 @@ https://docs.google.com/presentation/d/1Oy9uPNnE9WADIJtpxJiVYm809vOkAVKKE-A6sCmo
 4. In the app.py file allow the user to upload data
 5. Once the data is uploaded, prepare and process the data
 6. Deploy the app on Streamlit using Github's app.py file
+7. Screenshots are added to Screenshots folder
 
 ## Steps to use Streamlit
 1. Access the [URL](https://ramyamahesh1126-specialtopicsproject-app-cngff6.streamlit.app/)
 2. Upload the [data]( https://drive.google.com/file/d/1KDJcnin4p1SeZGOsN-9y114isAkwTcu3/view?usp=sharing)
 3. Once the data is uploaded, view the visualizations 
+4. Screenshots are added to Screenshots folder
 
