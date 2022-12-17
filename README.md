@@ -49,6 +49,9 @@ Video Link : https://drive.google.com/file/d/19u1na-wG3NxT9wiSRjudXd_JTs7KnXma/v
 Ppt Link : File name - Credit Card Fraud Detection Using Autoencoders In Keras.pptx in github OR access the below link
 https://docs.google.com/presentation/d/1Oy9uPNnE9WADIJtpxJiVYm809vOkAVKKE-A6sCmo0xw/edit?usp=sharing
 
+MLOps Document - Credit Card Detection MLOps.pdf in github or access the below link
+https://docs.google.com/document/d/15VFvbf3hE4LcEbZMwg8Ucx7d2gU5BM3jwa60YnLXuOU/edit#heading=h.rl1gkbq2j59m
+
 ## CI Pipeline
 1. Upload data after downloading from above links - Data Injection
 2. Data obtained has undergone PCA since it is confidential and we have performed cleaning and classification for fraud and normal records - Data preparation
